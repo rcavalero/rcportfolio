@@ -1,0 +1,14 @@
+body {
+    display:flex;
+    margin: auto;
+}
+
+
+.card-title {
+    background-color: darkslateblue;
+    color: lightgoldenrodyellow;
+}
+
+.fab {
+    color: lightgoldenrodyellow;
+}
