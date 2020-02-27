@@ -9,7 +9,7 @@ This app provides provides the following information:
  4. A link to my resume.
  5. Links to some of the projects I have worked on.
 
-The application is located here: [Portfolio](https://rcportfolio.herokuapp.com/) 
+The application is located here: [Portfolio](https://rlcportfolio.herokuapp.com/) 
 
 The application consists of one page:
 ![Portfolio](assets/images/portfolio.png)
