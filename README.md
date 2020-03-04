@@ -12,7 +12,7 @@ This app provides provides the following information:
 The application is located here: [Portfolio](https://rlcportfolio.herokuapp.com/) 
 
 The application consists of one page:
-![Portfolio](assets/images/portfolio.png)
+![Portfolio](/src/assets/images/portfolio.png)
 
 ## Built With
 
