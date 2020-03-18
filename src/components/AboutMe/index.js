@@ -1,11 +1,10 @@
 import React from "react";
-import Container from 'react-bootstrap/Container'
+// import Container from 'react-bootstrap/Container'
 import "./style.css"
 
 
 function AboutMe() {
   return (
-<Container>
       <div className="container aboutMe w-75 py-3">
         <div className="row">
           <div className="col">
@@ -16,12 +15,7 @@ function AboutMe() {
                 </div>  
                 <div className="col-xs-12 col-md-7 col-lg-8">
                   <div className="card-body">
-                    <p className="card-text text-justify">I live in Seattle, WA and am currently enrolled in a Full-Stack
-                      Web Development Boot Camp offered by the University of Washington.
-                      As a web-developer my plan is to leverage my past experience in operations and business processing
-                      to create/modify web applications that help
-                      solve business problems and increase efficiency for the users. <br /> In my spare time I enjoy golf,
-                      watching sports and playing card games.
+                    <p className="card-text text-justify">Full-Stack Web Developer with extensive insurance business systems operations and analysis experience.  Certified in Full-Stack web development from the University of Washington.  Proven ability to solve problems and increase efficiency for the user experience.  Bringing extensive knowledge of front office business experience to the web development process that includes configuring Agency Management Systems, managing databases, writing SQL based reports, managing business processes and creating advanced level Excel spreadsheets.
                     </p>
                   </div>
                 </div>
@@ -30,7 +24,6 @@ function AboutMe() {
           </div>
         </div>
       </div>
-      </Container>
   );
 }
 

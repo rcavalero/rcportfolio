@@ -1,4 +1,5 @@
 import React from 'react';
+import Container from "./components/Container"
 import NavBar from "./components/NavBar"
 import AboutMe from "./components/AboutMe"
 import Projects from "./components/Projects"
@@ -7,11 +8,15 @@ import './App.css';
 function App() {
   return (
     <div >
+
       <NavBar />
-      <div className="container my-3">
+      <Container>
+      {/* <div className="container my-3"> */}
         <AboutMe />
         <Projects />
-      </div>
+      {/* </div> */}
+      </Container>
+
     </div>
   );
 }
